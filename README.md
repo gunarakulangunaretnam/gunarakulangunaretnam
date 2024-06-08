@@ -1,4 +1,4 @@
-# 📘 About:
+# 📘 ABOUT
 
 🔧 Engineering | 🧪 Research | 💡 Innovation | 🚀 Entrepreneurship
 
@@ -10,7 +10,7 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GITHUB STATS
 
 <br>
 
@@ -56,7 +56,7 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 <br>
 <br>
 
-# 💻 Tech Stack:
+# 💻 TECH STACKS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -115,7 +115,7 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
 
-# 📞 Contact:
+# 📞 CONTACT
 
 ### Website: 
 
