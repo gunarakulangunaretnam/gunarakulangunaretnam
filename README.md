@@ -6,9 +6,13 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 
 #### For More Info:
 
-[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)   
+[![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)    [![](https://visitcount.itsvg.in/api?id=gunarakulangunaretnam&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<br>
 
 # 📊 GitHub Stats:
+
+<br>
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=gunarakulangunaretnam&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -22,9 +26,6 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 </div>
 
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=gunarakulangunaretnam&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <br>
 
 <div align="left">
