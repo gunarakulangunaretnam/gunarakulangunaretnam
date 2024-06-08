@@ -60,6 +60,8 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 
 # 💻 TECH STACKS
 
+<br>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -116,6 +118,8 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
+<br>
+<br>
 
 # 📞 CONTACT
 
