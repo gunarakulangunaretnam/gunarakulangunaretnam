@@ -14,8 +14,6 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 
 # 📊 GITHUB STATS
 
-<br>
-
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=gunarakulangunaretnam&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
@@ -122,6 +120,8 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 <br>
 
 # 📞 CONTACT
+
+<br>
 
 ### Website: 
 
