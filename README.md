@@ -121,8 +121,6 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 
 # 📞 CONTACT
 
-<br>
-
 ### Website: 
 
 [![Visit](https://img.shields.io/badge/Visit%3A%20www.gunarakulan.info-%23E01E5A?style=flat&logo=realm&logoColor=white)](http://www.gunarakulan.info)
