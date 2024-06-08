@@ -32,14 +32,10 @@ An interdisciplinary Tech Consultant who works across multiple sectors, includin
 ###
 
 <br>
-<br>
 
 ![](https://github-contributor-stats.vercel.app/api?username=gunarakulangunaretnam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br>
-<br>
-
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gunarakulangunaretnam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="300" alt="languages graph"  />
