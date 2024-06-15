@@ -4,7 +4,7 @@
 
 🔧 Engineering | 🧪 Research | 💡 Innovation | 🚀 Entrepreneurship
 
-An interdisciplinary Tech Consultant who works across multiple sectors, including Academia, Research, Service Providing, Product Development, and various technologies, including Artificial Intelligence, Software, Electronics, Mechanics, Cybersecurity, Computer Networks, Digital Media, and other emerging technologies to solve complex enterprise and social challenges.
+An interdisciplinary Tech Consultant who works across multiple fields, including Academia, Research, Service Providing, Product Development, and various technologies, including Artificial Intelligence, Software, Electronics, Mechanics, Cybersecurity, Computer Networks, Digital Media, and other emerging technologies to solve complex enterprise and social challenges.
 
 #### For More Info:
 
